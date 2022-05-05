@@ -7,8 +7,8 @@
 
 Meu nome é Calvin Fullstack Developer, estudante de Ciência da Computação.
 
-- 📌 Analista de Desenvolvimento de Sistemas.
-- 📚 Estudying ASP.Net, React and Big Data
+- 📌 Analista de Sistemas.
+- 🖍 Designer de UI/UX
 
 
 
